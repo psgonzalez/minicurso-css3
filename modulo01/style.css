@@ -1,0 +1,12 @@
+/*seletor tag*/
+.testeexterno{color: green}
+
+/* * = seletor universal
+    ex: 
+    *{color: red;} = todos os elementos terão a cor vermelha*/
+
+/*Seletor atributo*/
+
+input[type=text]{width: 200px; height: 20px; background-color: grey}
+input[type=email]{width: 200px; height: 20px; background-color: grey}
+input[type=submit]{width: 60px; height: 40px; background-color: grey}
